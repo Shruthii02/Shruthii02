@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **shruthi.murali02@gmail.com**
 
-- 📄 Know about my experiences [ My Resume]([https://acesse.one/3jayu](https://drive.google.com/file/d/160UxR40OCbij3cVpAjxrpcxJ3zD2wQR0/view?usp=drive_link))
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shruthimurali2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shruthimurali2002/" height="30" width="40" /></a>
