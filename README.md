@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shruthi.murali02@gmail.com**
 
-- 📄 Know about my experiences [ My Resume](https://acesse.one/3jayu)
+- 📄 Know about my experiences [ My Resume]([https://acesse.one/3jayu](https://drive.google.com/file/d/160UxR40OCbij3cVpAjxrpcxJ3zD2wQR0/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
